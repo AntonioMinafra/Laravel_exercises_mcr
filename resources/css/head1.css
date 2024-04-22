@@ -1,0 +1,29 @@
+.masthead {
+    height: 35vh;
+    min-height: 500px;
+    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead1 {
+    height: 35vh;
+    min-height:300px;
+    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  /* dropdown */
+  .dropdown-toggle::after {
+    display: none !important;
+}
+
+/* bottoni */
+.btn_custom{
+  background-color: rgb(72, 72, 72);
+  color: rgb(229, 228, 228);
+
+}
